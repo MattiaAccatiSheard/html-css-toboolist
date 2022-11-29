@@ -2,3 +2,72 @@
   proprieta: valore;
   proprieta: valore;
 } */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body{
+    background-color: #F6F8F9;
+    margin-top: 10px;
+  }
+
+/*header*/
+
+header{
+    
+
+}
+
+h1{
+    display: inline;
+    font-size: 50px;
+    color: #070707;
+}
+
+.head{
+    background-color: white;
+}
+
+#logo{
+    vertical-align: auto;
+}
+
+/*main*/
+
+.box1{
+    background-color: white;
+    border-radius: 20px;
+    width: 700px;
+    height: 50px;
+    margin-left: 350px;
+    margin-top: 5px;
+}
+
+nav{
+  text-align: left;
+  
+}
+
+
+input{
+  background-color: white;
+  border-color: rgb(203, 203, 212);
+  color: rgb(146, 146, 157);
+  margin-top: 15px;
+  border-radius: 5px;
+}
+
+input :hover{
+  background-color:blue;
+}
+
+.bottone{
+  margin-left: 25px;
+}
+
+/*box2*/
+
+
