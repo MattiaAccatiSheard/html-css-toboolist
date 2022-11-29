@@ -70,4 +70,38 @@ input :hover{
 
 /*box2*/
 
+.box2 {
+  background-color: white;
+  border-radius: 20px;
+  width: 700px;
+  height: 500px;
+  margin-left: 350px;
+  margin-top: 5px;
+}
 
+details{
+  margin-left: 25px;
+}
+
+summary{
+  margin-top: 10px;
+  font-size: 25px;
+}
+
+.detail{
+  font-size: 18px;
+}
+
+.item{
+  display: inline-block;
+  color: white;
+  font-size: 12px;
+  background-color: red;
+  border-radius: 20px;
+  background-size: 40px;
+  
+}
+
+.block{
+  display: block; 
+}
